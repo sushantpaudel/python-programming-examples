@@ -1,0 +1,6 @@
+# Lab 1 questions 1–8: standard library only
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
